@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="permission_notifications_rationale">Allow notifications for reminders.</string>
+    <string name="empty_list">No reminders yet</string>
+    <string name="action_clear_all">Clear all</string>
+    <string name="action_delete_selected">Delete selected</string>
+    <string name="content_desc_delete">Delete</string>
+    <string name="content_desc_add">Add Reminder</string>
+    <string name="title_required">Title is required</string>
+    <string name="choose_future_time">Choose a future time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_clear_all">Clear all reminders?</string>
+    <string name="confirm_delete_selected">Delete selected reminders?</string>
+    <string name="confirm_delete_one">Delete this reminder?</string>
+    <string name="snackbar_saved">Reminder saved</string>
+    <string name="snackbar_deleted">Reminder deleted</string>
+    <string name="snackbar_cleared">All reminders cleared</string>
+    <string name="snackbar_deleted_selected">Selected reminders deleted</string>
+    <string name="label_date">Date</string>
+    <string name="label_time">Time</string>
+    <string name="label_repeat">Repeat</string>
+    <string name="repeat_none">None</string>
+    <string name="repeat_daily">Daily</string>
+    <string name="repeat_weekly">Weekly</string>
+</resources>
