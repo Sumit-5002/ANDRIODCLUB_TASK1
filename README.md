@@ -100,4 +100,4 @@ If notifications don’t appear on time:
 
 ## License
 
-This project is provided as-is for educational purposes. Add your preferred license.
+This project is provided as-is for educational purposes.
